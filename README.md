@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-single-price-grid-component-using-css-grid-and-flexbox-EjRU9Aj4F2)
+- Live Site URL: [Vercel](https://single-price-grid-component-nesdevs.vercel.app)
 
 ## My process
 
